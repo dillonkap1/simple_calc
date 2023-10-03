@@ -28,7 +28,7 @@ Una sencilla calculadora construida con HTML, CSS y JavaScript para realizar ope
 ## 📂 Estructura del Proyecto
 
 - **index.html**: Archivo que contiene la estructura principal de la calculadora.
-- **style.css**: Archivo CSS (no proporcionado en el código original) que maneja el diseño y la apariencia de la calculadora.
+- **style.css**: Archivo CSS que maneja el diseño y la apariencia de la calculadora.
 - **index.js**: Archivo JavaScript que maneja la lógica y la funcionalidad de la calculadora.
 
 ---
@@ -55,3 +55,9 @@ Desarrollado por David Jara, 2023.
 ## 🤝 Contribución
 
 Las contribuciones son bienvenidas. Abra un 'pull request' o una 'issue' para colaborar.
+
+---
+
+## Netlify:
+
+Puedes verla en Netlify: https://simplecalc1dillonkap.netlify.app/
